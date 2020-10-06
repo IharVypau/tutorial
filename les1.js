@@ -44,8 +44,8 @@ const generateRandomString = function() {
 }
 let aa = "aasddd";
 //console.log([...aa]);
-//console.log(generateRandomString());
-//console.log(generateRandomString());
+console.log(generateRandomString());
+console.log(generateRandomString());
 
 function nextId(ids) {
     let result = 0;
